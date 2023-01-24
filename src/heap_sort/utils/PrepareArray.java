@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class PrepareArray {
 
-    public int[] init(int size){
+    public static int[] prepareArray(int size){
         Random random = new Random();
         int[] array = new int[size];
         for (int i = 0; i<array.length; i++) {
