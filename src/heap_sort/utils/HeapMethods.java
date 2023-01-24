@@ -5,7 +5,7 @@ public class HeapMethods {
         heapSortInc(array, array.length);
     }
 
-    private static void heapSortInc(int[] array, int numbersToSort){
+    private static int heapSortInc(int[] array, int numbersToSort){
         if (numbersToSort>1){
             int n = numbersToSort/2 - 1;
             for (int i = n; i>-1;i--){
@@ -29,7 +29,8 @@ public class HeapMethods {
             array[numbersToSort]=array[0]-array[numbersToSort];
             array[0]-=array[numbersToSort];
 
-            heapSortInc(array,numbersToSort);
+            return heapSortInc(array,numbersToSort);
         }
+        return 1;
     }
 }

@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e54fb423-29c8-42ad-85ee-b489b738de09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/heap_sort/utils/HeapMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap_sort/utils/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/heap_sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heap_sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heap_sort/utils/PrepareArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heap_sort/utils/PrepareArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heap_sort/utils/PrintArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heap_sort/utils/PrintArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heap_sort/utils/HeapMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heap_sort/utils/HeapMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
